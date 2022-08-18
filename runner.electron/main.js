@@ -1,4 +1,4 @@
-const electron = require('electron');
+const electron = require ('electron') || require ('electron-nightly');;
 var app = electron.app;
 var BrowserWindow = electron.BrowserWindow;
 
