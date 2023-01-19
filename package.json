@@ -23,7 +23,7 @@
   "license": "MIT",
   "dependencies": {
     "async": "^0.9.0",
-    "merge": "^1.2.0",
+    "merge": "^2.1.0",
     "ncp": "^2.0.0"
   },
   "peerDependencies": {
